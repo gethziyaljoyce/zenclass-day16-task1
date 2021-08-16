@@ -1,0 +1,6 @@
+.container{
+    max-height:1400px;
+    max-width:300px;
+    border:1px solid black;
+    padding-top: 25px;
+}
